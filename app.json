@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "25f2350c-8baa-451e-b6af-17cf5d85369b"
+      }
+    },
+    "android": {
+      "package": "com.shivu_17.project"
+    }
+  }
+}
